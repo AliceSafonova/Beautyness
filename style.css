@@ -1114,6 +1114,7 @@ margin-top: 88px;
 
 
     @media (max-width: 575px) { 
+      
       .header__left-logo{
         max-width: 150px;
       }
@@ -1164,6 +1165,7 @@ margin-top: 88px;
       }
       .banner__left-block{
         margin: 0 auto;
+        padding: 0 10px;
         
         
       }
